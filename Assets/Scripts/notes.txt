@@ -1,0 +1,28 @@
+how far can you travel in the real world? 
+
+- certain prerequesit items are needed to unlock later items
+Special and physical attack? What sort of stats should the player get in dreams? 
+
+Test level: 
+- spawn enemy
+- shoot eneme
+-attached by enemy
+- replemish health item
+- game over lose
+- beat all enemy - what then? 
+    - 
+Real world Test
+- walk around
+- make a bedroom first
+- bed, desk, lamp, chair. 
+
+
+shared items
+- are all items shared? - anything else? 
+
+save data: 
+- whih level are you on in dreams- what items you have
+- XP
+- Health (a real life health? maybe not) 
+- Location in real world- Specific savepoints in dream world bc its harder when something might attack you from anywhere
+- time? 
